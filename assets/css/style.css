@@ -1,0 +1,77 @@
+body {
+	background-image: url("../images/LCwOTe.jpg");
+	}
+
+#gameName {
+	width: 500px;
+	margin-left: 300px;
+	font-size: 30px;
+	font-weight: bold; 
+	background: #000000;
+	color: #ffffff;
+	text-align: center;
+}
+
+#displayTime {
+	max-width: 200px;
+	margin-left: 400px;
+	font-size: 20px;
+	font-weight: bold; 
+	background: #000000;
+	color: #ffffff;
+	text-align: center;
+}
+
+#displayTrivia {
+	width: 200px;
+	height: 50px;
+	margin-left: 400px;
+	font-size: 20px;
+	font-weight: bold; 
+	background: blue;
+	color: red;
+	text-align: center;
+}
+
+
+#start {
+	width: 200px;
+	height: 30px;
+	margin-left: 400px;
+	font-size: 20px;
+	font-weight: bold; 
+	background: #ffffff;
+	color: #000000;
+	text-align: center;
+}
+
+input {
+	width: 200px;
+	height: 30px;
+	margin-left: 400px;
+	font-size: 20px;
+	font-weight: bold; 
+	background: #ffffff;
+	color: #000000;
+	text-align: center;
+
+}
+
+#displayTriviaQ {
+	max-width: 200px;
+	margin-left: 400px;
+	font-size: 18px;
+	font-weight: bold; 
+	background: #000000;
+	color: #ffffff;
+
+}
+
+choices {
+    width: 100%;
+    padding: 16px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+}
+
